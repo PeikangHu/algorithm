@@ -1,0 +1,16 @@
+﻿Array
+List
+LinkedListNode
+Stack
+Queue
+HashSet
+Dictionary
+MaxHeap
+MinHeap
+
+
+Tree
+-- Looks like tree
+-- Real Tree
+-- Balance Search Tree -> 2-3-Tree -> Red-Black BST
+Graph
